@@ -1,0 +1,26 @@
+body {
+  background-color: rgb(58, 2, 110);
+}
+img {
+  width: 300px;
+
+  margin: 35px 0px 0px 0px;
+  border-radius: 7%;
+}
+.class1 {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  align-items: center;
+}
+h1 {
+  font-family: "Dancing Script", cursive; /* from google fonts */
+  font-weight: lighter;
+}
+p {
+  align-items: center;
+  align-content: center;
+  margin: 0px 70px 70px 70px;
+}
